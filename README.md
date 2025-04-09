@@ -29,7 +29,6 @@ Gosto de criar aplicações que facilitam a vida das pessoas e aprender algo nov
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosantos10&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosantos10&layout=compact&theme=tokyonight" />
 </p>
 
