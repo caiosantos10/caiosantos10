@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 ## 🧑‍💻 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia, código limpo e soluções criativas.  
+Sou um desenvolvedor interessado por tecnologia, código e soluções.  
 Gosto de criar aplicações que facilitam a vida das pessoas e aprender algo novo todos os dias!
 
 - 🎯 Foco em desenvolvimento **frontend/backend**  
